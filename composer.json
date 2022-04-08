@@ -1,0 +1,17 @@
+{
+    "name": "alainaissi/try",
+    "autoload": {
+        "psr-4": {
+            "Alainaissi\\Try\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alainaissi",
+            "email": "alain-aissi_student2022@wilder.school"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
